@@ -18,7 +18,7 @@
 ---
 
 
-## 🚀 Tech Stack & Tools:
+##  Tech Stack & Tools:
 
 ### Programming Stack 
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
@@ -53,9 +53,9 @@
 
 ---
 
-## 🌟 Most Used Languages:
+##  Most Used Languages:
 
 ![Faizan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAnwar01&layout=compact)
 
-- ⚡ **Fun Fact**:I automate my coffee maker with bash.🍵☕
+-  **Fun Fact**:I automate my coffee maker with bash.🍵☕
 
