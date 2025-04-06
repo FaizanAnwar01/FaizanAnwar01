@@ -1,18 +1,26 @@
-# 👋 Hi, I’m Muhammad Faizan Anwar
-
-- 🧑‍💻 I’m working on **Penetration Testing**, **Bug Bounty Hunting**, and **Web3 Security**, with a focus on **security**, **ethical hacking**, and ****decentralized application security mechanisms** (DApps).
-
-- 🌱 Currently, I’m developing my own security tools for pen testing and ethical hacking, focusing on understanding and implementing of security mechanisms in Web3 and DApp, and working on **Fortis Security**—a security project I’m working on.
+<p align="center">
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFza3dkemUyNmM2Z2Yxc3ZydHg2YWwzbmU2cWF6dG81Y3Z2OXI3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="300" />
   
-- 💞️ I’m open to collaborating on **security projects**, **penetration testing**, and **Web3** developments.  
-- 📫 Reach me at: [faizananwar1094@gmail.com](mailto:faizananwar1094@gmail.com)  
-- 🏆 **Technologies** I use include **C++, Java, C, Bash, Go, Python** for penetration testing and security tool development, with knowledge of **JavaScript**, **HTML/CSS**, and **SQL** for web security and databases.
-- 📲 **Connect with me** on [LinkedIn](www.linkedin.com/in/imfaizananwar) and [Instagram](https://www.instagram.com/faizan_anwar._).  
-- 😄 Pronouns: **he/him**  
-- ⚡ **Fun Fact**: I’m a huge fan of **tea** and **coffee**, and I’m **mad** about them! ☕🍵  
+  # 👋 Hi, I'm Muhammad Faizan Anwar  
+  🔐 **Pentester | Web3 Security Researcher | Bug Bounty Hunter**  
+
+  - 🌱 Currently developing **security tools** for pen testing & Web3/DApp security  
+  - 🔭 Working on **Fortis Security**  
+  - 💞️ Open to **collaborations** on security projects  
+  - 📫 Reach me: [faizananwar1094@gmail.com](mailto:faizananwar1094@gmail.com)  
+</p>
+
+<br><br>
+
+## 🌐 **Connect with me** 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/imfaizananwar)  [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/faizan_anwar._)  [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@mfaizananwar)  
+
+---
+
 
 ## 🚀 Tech Stack & Tools:
 
+### Programming Stack 
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -20,27 +28,34 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
 ![SQL](https://img.shields.io/badge/SQL-4E73DF?logo=postgresql)
 
-## 🔥 Projects & Contributions:
+## Operating Systems & Environments:
+<span>
+  <img src="https://img.shields.io/badge/Linux-333333?logo=linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C9C?logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash" />
+</span>
 
-- **Fortis Security**: A security project I’m working on, focused on developing tools and mechanisms for enhancing penetration testing and addressing vulnerabilities.
-- **DApp with Game Integration**: Currently building a decentralized app (DApp) that incorporates game interactions with blockchain.
-- **Personal Security Tools**: Creating my own tools for penetration testing, security audits, and bug bounty hunting.
+## Penetration Testing & Recon
+![Nmap](https://img.shields.io/badge/Nmap-003B49?logo=nmap) ![Metasploit](https://img.shields.io/badge/Metasploit-900000?logo=metasploit) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-6E6E6E?logo=burpsuite) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?logo=owasp-zap) ![Hydra](https://img.shields.io/badge/Hydra-FF0000?logo=hydra)
 
-Check out my repositories: [GitHub Repositories](https://github.com/FaizanAnwar01)
+## Web3 & DApp Security
+![Web3](https://img.shields.io/badge/Web3-0066cc?logo=ethereum) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat) ![Truffle](https://img.shields.io/badge/Truffle-3FE0C5?logo=truffle)
 
+## IoT & Network Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679B1?logo=wireshark) ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino) ![RFID](https://img.shields.io/badge/RFID-FF5733?logo=rfid) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=raspberrypi)
+
+<br>
+
+---
 ## 📊 GitHub Stats:
 
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanAnwar01&show_icons=true&hide_title=true&count_private=true)
+
+---
 
 ## 🌟 Most Used Languages:
 
 ![Faizan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAnwar01&layout=compact)
 
-## 🌍 Connect with me:
-
-- [LinkedIn](www.linkedin.com/in/imfaizananwar)
-- [Instagram](https://www.instagram.com/faizan_anwar._)
-
-<!-- GitHub Activity Graph -->
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=FaizanAnwar01)
+- ⚡ **Fun Fact**:I automate my coffee maker with bash.🍵☕
 
