@@ -2,7 +2,7 @@
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFza3dkemUyNmM2Z2Yxc3ZydHg2YWwzbmU2cWF6dG81Y3Z2OXI3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="300" />
   
   # 👋 Hi, I'm Muhammad Faizan Anwar  
-  🔐 **Pentester | Web3 Security Researcher | Bug Bounty Hunter**  
+  🔐 **Pentester | Security Researcher | Bug Bounty Hunter**  
 
   - 🌱 Currently developing **security tools** for pen testing & Web3/DApp security  
   - 🔭 Working on **Fortis Security**  
